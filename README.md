@@ -7,7 +7,7 @@ Github: https://github.com/jiayc1/profilegenerator
 
 Description: 
 
-This is a generator that allows HR to create a team and create their profile for view. There are three type of team members you can add which is: 
+This is a generator that allows HR to create a team and create their profile for view. There are three type of team members you can add which are: 
 1. Manager
 2. Engineer
 3. Intern 
